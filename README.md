@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dotienanh77
-- 👀 I’m interested in font - end
-- 🌱 I’m currently learning JAVASCRIPT, HTML, CSS, and REACT NATIVE
+- 👋 Hi, I’m DO TIEN ANH
+- 👀 I’m interested in developing app mobile
+- 🌱 I’m currently learning JAVASCRIPT, HTML, CSS, and REACT NATIVE framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : anhdt.ute@gmail.com
 
