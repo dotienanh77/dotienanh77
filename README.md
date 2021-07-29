@@ -1,7 +1,7 @@
 - 👋 Hi, I’m DO TIEN ANH
 - 👀 I’m interested in developing app mobile
 - 🌱 I’m currently learning JAVASCRIPT, HTML, CSS, and REACT NATIVE framework
-- 💞️ I am looking for a React Native intern position
+- 💞️ I am looking for a React Native fresher position
 - 📫 How to reach me : anhdt.ute@gmail.com
 - BEST REGARD
 
